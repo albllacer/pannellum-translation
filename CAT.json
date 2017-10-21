@@ -1,0 +1,13 @@
+{
+    "loadButtonLabel": "Feu clic per \ nCargar \ nPanorama",
+    "loadingLabel": "Carregant ...",
+    "bylineLabel": "per %s",    
+
+    "noPanoramaError": "Cap imatge ha estat especificada per al panorama.",
+    "fileAccessError": "No s'ha pogut accedir a l'arxiu %s.",
+    "malformedURLError": "La direcció del panorama és incorrecta.",
+    "iOS8WebGLError": "A causa de la manca d'implementació WebGL en iOS 8, només els arxius JPEG xifrats de manera progressiva funcionaran en el teu dispositiu (aquest panorama utilitza una codificació estàndard).",
+    "genericWebGLError": "El seu navegador no suporta WebGL i no pot mostrar aquest panorama.",
+    "textureSizeError": "Aquest panorama és massa gran per al seu dispositiu! És% SPX d'ample, però el dispositiu només suporta images de fins a% SPX d'ample. Proveu amb un altre dispositiu. (Si ets l'autor de la imatge, intenta reduir la seva grandària.)",
+    "unknownError": "Error desconegut. Miri a la consola per desenvolupadors."
+}
